@@ -1,0 +1,10 @@
+;;; Automatically generated on Thu Feb 20 21:18:09 2020
+;;; Invoked by yuhaijun@yuhaijundeMac.local using 25.1.1
+(setq-default kill-ring '(#("    " 0 4 (fontified t)) #("include (log" 0 1 (face font-lock-preprocessor-face c-in-sws t fontified t) 1 2 (face font-lock-preprocessor-face c-in-sws t fontified t) 2 3 (face font-lock-preprocessor-face c-in-sws t fontified t) 3 4 (face font-lock-preprocessor-face c-in-sws t fontified t) 4 5 (face font-lock-preprocessor-face c-in-sws t fontified t) 5 6 (face font-lock-preprocessor-face c-in-sws t fontified t) 6 7 (face font-lock-preprocessor-face c-in-sws t fontified t) 7 8 (c-in-sws t fontified t) 8 9 (syntax-table \.\.\. c-in-sws t fontified t) 9 10 (c-in-sws t fontified t) 10 11 (c-in-sws t fontified t) 11 12 (c-in-sws t fontified t)) #(")" 0 1 (c-in-sws t fontified t))))
+(setq-default session-file-alist '(("~/Service/common/common.cpp" 13726 1973 1 nil nil 13726 (overwrite-mode)) ("~/.emacs.d/custom-set-variables.el" 1 nil 1 nil nil 3420 (overwrite-mode))))
+(setq-default file-name-history '(#("/Users/yuhaijun/Service/common/common.cpp" 0 41 (ivy-index 0)) "~/Service/common/common.cpp" #("/Users/yuhaijun/Service/common/" 0 31 (ivy-index 0)) #("/Users/yuhaijun/Service/" 0 24 (ivy-index 0)) #("/Users/yuhaijun/.emacs.d/README.org" 0 35 (ivy-index 0)) "~/.emacs.d/custom-set-variables.el"))
+(setq-default command-history '((find-file "/Users/yuhaijun/Service/common/common.cpp" t) (find-file "/Users/yuhaijun/Service/common/" t) (find-file "/Users/yuhaijun/Service/" t) (find-file "/Users/yuhaijun/.emacs.d/README.org" t)))
+(setq-default counsel-git-grep-cmd-history '("git --no-pager grep --full-name -n --no-color -i -I -e \"%s\""))
+(setq-default evil-ex-history '(#("wq!" 0 1 (ex-index 1) 1 2 (ex-index 2) 2 3 (ex-index 3)) #("w" 0 1 (ex-index 1))))
+(setq-default my-dired-directory-history '("/Users/yuhaijun/Service/common"))
+(setq-default occur-collect-regexp-history '("\\1"))
